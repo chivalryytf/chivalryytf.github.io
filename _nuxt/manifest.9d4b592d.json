@@ -1,0 +1,53 @@
+{
+  "name": "chivalryytf.me",
+  "short_name": "chivalryytf.me",
+  "description": "A personal blog about building stuff with code.",
+  "icons": [
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_64x64.9521ea.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_120x120.9521ea.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_144x144.9521ea.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_152x152.9521ea.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_192x192.9521ea.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_384x384.9521ea.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/chivalryytf/_nuxt/icons/icon_512x512.9521ea.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/chivalryytf/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
