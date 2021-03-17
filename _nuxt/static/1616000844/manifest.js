@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Fblog\u002Fimplementing-facial-expression-detection-cam","\u002Fblog\u002Fintroduction","\u002Fblog\u002Foptimizing-and-resizing-images-using-canvas-api"]})
