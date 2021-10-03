@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1633230757",layout:"default",error:null,serverRendered:true,routePath:"\u002Fblog\u002Fi-recently-got-to-experience-programming-in-rust-and-it-has-been-one-of-the-best-programming-experiences-of-my-life",config:{content:{dbHash:"69e1fa62"}}};
